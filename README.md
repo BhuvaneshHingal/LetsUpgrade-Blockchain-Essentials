@@ -1,2 +1,2 @@
-# -LetsUpgrade-Blockchain-Essentials
+# LetsUpgrade-Blockchain-Essentials
 Blockchain Essentials: LU Blockchain &amp; Bitcoin
